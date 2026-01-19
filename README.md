@@ -8,7 +8,6 @@ I built and maintain a service for automated event management, handling event ma
 # Technologies I work with
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte)
 ![Java](https://img.shields.io/badge/Java-red?logo=openjdk)
