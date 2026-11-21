@@ -8,4 +8,4 @@ I play guitar and build software for the ensembles I grew up in. I'm doing my ma
 - **[Mand o'Line](https://bzvs.de/hilfe)** – a RAG chatbot for amateur music associations. A LangGraph pipeline routes questions to the relevant Weaviate index, combines keyword and vector search, and reranks the results. A language model uses the retrieved material to answer.
 - **[SJZO website](https://szo-online.de/sjzo)** – I designed and built a custom WordPress theme for Saarland's youth guitar and mandolin orchestra. I also run the website for [BZVS](https://bzvs.de), Saarland's state association for guitar and mandolin music.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/lisaperrin18/)
+Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisaperrin18/)
