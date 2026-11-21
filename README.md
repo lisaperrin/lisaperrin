@@ -1,32 +1,11 @@
-# 👋 About Me
-Hi, I'm Lisa.  
-CS + BA student, currently on an Erasmus semester at the University of Luxembourg.
-I built and maintain a service for automated event management, handling event management, relationship management and engagement strategies for 300k users, and volunteer team workflows.
+### Hi, I'm Lisa
 
----
+I play guitar and build software for the ensembles I grew up in. I'm doing my master's in Business Informatics at the University of Mannheim, and I'm interested in finance, valuation and strategy. For my bachelor's thesis, I built a Python framework to work out what GenAI use cases cost and when they pay off.
 
-# Technologies I work with
+- **[EarningsIQ](https://github.com/lisaperrin/earningsiq)** – uses SEC filings to investigate how stocks react to earnings announcements. It combines retrieval-augmented generation (RAG), specialised agents and LoRA fine-tuning.
+- **[PortfolioML](https://github.com/lisaperrin/mpt-machine-learning)** – starts with a Hierarchical Risk Parity portfolio and uses a regularised ML model to form Black–Litterman views. A cap limits how far those views can tilt the portfolio. Walk-forward backtests compare the result with equal-weight, Markowitz and factor portfolios.
+- **Virtuelles Orchester** – lets musicians practise performing under pressure in front of a virtual audience on Quest 3 and Vision Pro. Saarländischer Rundfunk featured the project. I'm currently working on rendering an audience of 1,500 at 90 fps on a headset.
+- **[Mand o'Line](https://bzvs.de/hilfe)** – a RAG chatbot for amateur music associations. A LangGraph pipeline routes questions to the relevant Weaviate index, combines keyword and vector search, and reranks the results. A language model uses the retrieved material to answer.
+- **[SJZO website](https://szo-online.de/sjzo)** – I designed and built a custom WordPress theme for Saarland's youth guitar and mandolin orchestra. I also run the website for [BZVS](https://bzvs.de), Saarland's state association for guitar and mandolin music.
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte)
-![Java](https://img.shields.io/badge/Java-red?logo=openjdk)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-FF6F61)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn)
-![LangChain](https://img.shields.io/badge/LangChain-RAG-121212?logo=chainlink)
-![Pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas)
-
-![Power Platform](https://img.shields.io/badge/Power%20Platform-Automation-purple?logo=microsoftpowerplatform)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-Workflow-0078D4?logo=microsoftpowerautomate)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?logo=powerbi)
-
----
-
-# Interests
-Finance • Process automation • Digital transformation • Strategic development in non-profits and businesses
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lisaperrin18/)
