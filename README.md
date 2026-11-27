@@ -1,11 +1,16 @@
 ### Hi, I'm Lisa
 
-I play guitar and build software for the ensembles I grew up in. I'm doing my master's in Business Informatics at the University of Mannheim, and I'm interested in finance, valuation and strategy. For my bachelor's thesis, I built a Python framework to work out what GenAI use cases cost and when they pay off.
+Master's student in Business Informatics at the University of Mannheim, into finance, valuation and strategy. My bachelor's thesis built a Python framework to work out what GenAI use cases cost and when they pay off. I also play guitar and build software for the ensembles I grew up in.
 
-- **[SEC Filing Analysis](https://github.com/lisaperrin/sec-filing-analysis)** – answers questions about SEC 10-K and 10-Q filings with retrieval-augmented generation (RAG) and a small language model that runs locally. An event study of 479 earnings releases from 20 companies tests what shows up in the stock price: the surprise against analyst estimates does, the tone of the filing does not.
-- **[PortfolioML](https://github.com/lisaperrin/mpt-machine-learning)** – I use it to experiment with modern portfolio theory and machine learning. I start with a Hierarchical Risk Parity portfolio and use a regularised model to generate Black–Litterman views, with a cap on how much they can shift the weights. Walk-forward backtests compare the result with equal-weight, Markowitz and factor portfolios.
-- **Virtuelles Orchester** – lets musicians practise performing under pressure in front of a virtual audience on Quest 3 and Vision Pro. Saarländischer Rundfunk featured the project. I'm currently working on rendering an audience of 1,500 at 90 fps on a headset.
-- **[Mand o'Line](https://bzvs.de/hilfe)** – a RAG chatbot for amateur music associations. A LangGraph pipeline routes questions to the relevant Weaviate index, combines keyword and vector search, and reranks the results. A language model uses the retrieved material to answer.
-- **[SJZO website](https://szo-online.de/sjzo)** – I designed and built a custom WordPress theme for Saarland's youth guitar and mandolin orchestra. I also run the website for [BZVS](https://bzvs.de), Saarland's state association for guitar and mandolin music.
+**Finance & AI**
+- **[marketlens](https://github.com/lisaperrin/marketlens)** – CLI and MCP server for stock research on top of yfinance: quotes, comparisons, benchmarks, alerts and portfolio valuation, so Claude works with real numbers.
+- **[firmvalue](https://github.com/lisaperrin/firm-value-decomposition)** – splits a company's market value into physical capital, labor, knowledge and brand capital (Belo et al. 2022), with a simulator, an estimator and a live mode built on marketlens.
+- **[SEC Filing Analysis](https://github.com/lisaperrin/sec-filing-analysis)** – local RAG over 10-K and 10-Q filings, plus an event study of 479 earnings releases: the analyst surprise moves the price, the filing's tone does not.
+- **[PortfolioML](https://github.com/lisaperrin/mpt-machine-learning)** – Hierarchical Risk Parity with capped, ML-generated Black–Litterman views, walk-forward tested against equal-weight, Markowitz and factor portfolios.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/lisaperrin18/)
+**Music**
+- **Virtuelles Orchester** – stage practice in front of a virtual audience on Quest 3 and Vision Pro, featured by Saarländischer Rundfunk. Currently: 1,500 listeners at 90 fps.
+- **[Mand o'Line](https://bzvs.de/hilfe)** – RAG chatbot for amateur music associations: LangGraph routing, hybrid Weaviate search, reranking.
+- **[SJZO](https://szo-online.de/sjzo) & [BZVS](https://bzvs.de) websites** – a custom WordPress theme for Saarland's youth guitar and mandolin orchestra, and the site of the state association.
+
+[LinkedIn](https://www.linkedin.com/in/lisaperrin18/)
